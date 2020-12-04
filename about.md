@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About me
+  en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,5 +26,5 @@ titles:
 key: page-about
 ---
 
-Nice to see you here. I am Wonjin Yang. If you would like to contact, please, email me. <wonjin0300@gmail.com>
+Nice to see you here. I am Wonjin Yang. If you would like to contact, please, email me. (mailto:wonjin0300@gmail.com?Subject=Sugject%20Text&Body=Thank%2-you)
 
