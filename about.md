@@ -26,5 +26,5 @@ titles:
 key: page-about
 ---
 
-Nice to see you here. I am Wonjin Yang. If you would like to contact, please, [email](mailto:wonjin0300@gmail.com?Subject=Subject%20Text&Body=Thank%20you) me. 
+Nice to see you here. I am Wonjin Yang. If you would like to contact, please, [email](mailto:wonjin0300@gmail.com) me. 
 
